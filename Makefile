@@ -2,7 +2,7 @@
 
 ASM_FILE=boot.asm
 BIN_FILE=boot.bin
-VIRTUAL_MACHINE=EmptyBoot
+VIRTUAL_MACHINE=PuzzleBoot
 OFFSET=2097152
 
 all:
